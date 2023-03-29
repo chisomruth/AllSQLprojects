@@ -1,4 +1,4 @@
-# ruthystores_database
-This repository contains ruthy_stores database( an imaginary database for an imaginary university book store) and some queries performed on this db
+# My sql projects
+This repository contains all sql projects and queries 
 ## Details
-I created this database as a practice project in learning, mastering and using sql. 
+I created and queried these databases as a practice project in learning, mastering and using sql. 
